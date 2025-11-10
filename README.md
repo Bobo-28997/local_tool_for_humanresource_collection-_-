@@ -1,1 +1,2 @@
 # local_tool_for_humanresource_collection-_-
+本地人事工具可打包为exe

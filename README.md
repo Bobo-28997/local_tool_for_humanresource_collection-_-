@@ -1,2 +1,3 @@
 # local_tool_for_humanresource_collection-_-
 本地人事工具可打包为exe
+用于自动审核三个客户的提成
